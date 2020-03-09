@@ -18,5 +18,6 @@ public class testSafari {
 
 //to allow remote automation on safari: first enable Develop menu from advanced preferences.
 // then click on allow remote automation through that develop menu that appeared between bookmarks and Window
+
     }
 }
